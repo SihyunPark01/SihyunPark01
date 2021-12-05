@@ -3,14 +3,13 @@
 <h1> <div align="center"> I'm Sihyun Park, an associate back-end engineer. 👋 </div> </h1>
 
 
-### <div align="center"> 👯 Farmstory 커뮤니티 웹사이트 제작 프로젝트 http://13.124.154.221:8080/Farmstory </div>
-### <div align="center"> 👯 AJAX 여성 의류 쇼핑몰 제작 프로젝트 http://13.124.154.221:8080/AJAX_1201 </div>
-### <div align="center"> 👯 Kmarket 오픈 마켓 웹사이트 제작 프로젝트(진행중) http://13.124.154.221:8080/Kmarket </div>
+#### <div align="center"> 👯 Farmstory 커뮤니티 웹사이트 제작 프로젝트 http://13.124.154.221:8080/Farmstory </div>
+#### <div align="center"> 👯 AJAX 여성 의류 쇼핑몰 제작 프로젝트 http://13.124.154.221:8080/AJAX_1201 </div>
+#### <div align="center"> 👯 Kmarket 오픈 마켓 웹사이트 제작 프로젝트(진행중) http://13.124.154.221:8080/Kmarket </div>
 
 
->
 
-<div>
+<article>
 <div align=center>
   <h3>📚 STACKS</h3>
 </div>
@@ -59,8 +58,7 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
-</div>
-
+</article>
 
 <!--
 **SihyunPark01/SihyunPark01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
