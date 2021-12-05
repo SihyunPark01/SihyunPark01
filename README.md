@@ -1,5 +1,5 @@
-<div align="center">
-## 😄 Welcome to marongrong's page! 
+
+## <div align="center"> 😄 Welcome to marongrong's page! </div>
 ## I'm Sihyun Park, an associate back-end engineer. 👋
 </div>
 <!--
