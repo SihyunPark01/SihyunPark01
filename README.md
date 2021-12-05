@@ -9,7 +9,8 @@
 
 
 >
->
+
+<div>
 <div align=center>
   <h3>📚 STACKS</h3>
 </div>
@@ -58,7 +59,7 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
-
+</div>
 
 
 <!--
