@@ -1,6 +1,7 @@
 
 <h4> <div align="center"> 😄 Welcome to marongrong's page! </div> </h4>
 <h2> <div align="center"> I'm Sihyun Park, an associate back-end engineer. 👋 </div> </h2>
+
 <div>
 <div align="center"> 👯 Farmstory 커뮤니티 웹사이트 제작 프로젝트 http://13.124.154.221:8080/Farmstory </div>
 <div align="center"> 👯 AJAX 여성 의류 쇼핑몰 제작 프로젝트 http://13.124.154.221:8080/AJAX_1201 </div>
@@ -9,7 +10,9 @@
 
 
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center>
+  <h1>📚 STACKS</h1>
+</div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
