@@ -5,7 +5,7 @@
 
 <div align="center"> 👯 Farmstory 커뮤니티 웹사이트 제작 프로젝트 http://13.124.154.221:8080/Farmstory </div>
 <div align="center"> 👯 AJAX 여성 의류 쇼핑몰 제작 프로젝트 http://13.124.154.221:8080/AJAX_1201 </div>
-<div align="center"> 👯 Kmarket 오픈 마켓 웹사이트 제작 프로젝트(진행중) http://13.124.154.221:8080/Kmarket </div>
+
 
 
 
