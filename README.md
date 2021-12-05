@@ -1,4 +1,4 @@
-#### Welcome to marongrong's page! 
+### Welcome to marongrong's page! 
 # I'm Sihyun Park, an associate back-end engineer. 👋
 
 <!--
