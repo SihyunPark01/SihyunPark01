@@ -2,7 +2,7 @@
 ### <div align="center"> 😄 Welcome to marongrong's page! </div>
 ## <div align="center"> I'm Sihyun Park, an associate back-end engineer. 👋 </div>
 
-### 👯 Farmstory 커뮤니티 웹사이트 프로젝트 http://13.124.154.221:8080/Farmstory
+#### <div align="center"> 👯 Farmstory 커뮤니티 웹사이트 프로젝트 http://13.124.154.221:8080/Farmstory </div>
 
 
 <!--
