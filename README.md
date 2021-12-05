@@ -1,6 +1,6 @@
 
-## <div align="center"> 😄 Welcome to marongrong's page! </div>
-## I'm Sihyun Park, an associate back-end engineer. 👋
+### <div align="center"> 😄 Welcome to marongrong's page! </div>
+## <div align="center"> I'm Sihyun Park, an associate back-end engineer. 👋 </div>
 </div>
 <!--
 **SihyunPark01/SihyunPark01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
