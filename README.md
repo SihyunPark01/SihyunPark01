@@ -1,7 +1,8 @@
 
 <h3> <div align="center"> 😄 Welcome to marongrong's page! </div> </h3>
-<h1> <div align="center"> I'm Sihyun Park, an associate back-end engineer. 👋 </div> </h1>
+<h1> <div align="center"> I'm Sihyun Park, an junior back-end engineer. 👋 </div> </h1>
 
+<div align="center"> 👯 웹 포트폴리오 https://sihyunpark01.github.io/Portfolio/ </div>
 
 <div align="center"> 👯 Farmstory 커뮤니티 웹사이트 제작 프로젝트 http://13.124.154.221:8080/Farmstory </div>
 <div align="center"> 👯 AJAX 여성 의류 쇼핑몰 제작 프로젝트 http://13.124.154.221:8080/AJAX </div>
