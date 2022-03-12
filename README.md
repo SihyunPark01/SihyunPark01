@@ -2,7 +2,7 @@
 <h3> <div align="center"> 😄 Welcome to marongrong's page! </div> </h3>
 <h1> <div align="center"> I'm Sihyun Park, an junior back-end engineer. 👋 </div> </h1>
 
-<div align="center"> 👯 marongrong은 정보처리기사 필기 공부중! 같이 공부해요! -> https://velog.io/@marongrong?tag=%EC%A0%95%EC%B2%98%EA%B8%B0%ED%95%84%EA%B8%B0 </div>
+<div align="center"> 👯 marongrong은 정보처리기사 필기합격! 실기 공부중! 같이 공부해요! -> https://velog.io/@marongrong </div>
 <div align="center"> 👯 marongrong의 개발스토리가 궁금하다면? 웹 포트폴리오 -> https://sihyunpark01.github.io/Portfolio/ </div>
 
 <div align="center"> 👯 Farmstory 커뮤니티 웹사이트 제작 프로젝트 http://13.124.154.221:8080/Farmstory </div>
