@@ -1,7 +1,5 @@
 
 <h3> <div align="center"> 😄 Welcome to marongrong's page! </div> </h3>
-<h1> <div align="center"> I'm Sihyun Park, an junior back-end engineer. 👋 </div> </h1>
-
 
 <article>
 <div align=center>
